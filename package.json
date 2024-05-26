@@ -1,18 +1,74 @@
 {
-  "name": "@ReguideWIKI/TeaSimple-ReGuide",
+  "name": "@dramaorg/quo-expedita",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "scripts": {},
+  "author": "dramatinahj",
   "license": "MIT",
+  "dependencies": {
+    "@dramaorg/aperiam-nostrum-iste": "^1.1.23",
+    "@dramaorg/architecto-hic-odit": "^3.5.17",
+    "@dramaorg/assumenda-vel-animi": "^1.2.22",
+    "@dramaorg/cum-praesentium-quod": "^1.3.21",
+    "@dramaorg/deserunt-fugiat-molestiae": "^2.3.20",
+    "@dramaorg/dolorum-placeat-quidem": "^1.2.22",
+    "@dramaorg/ducimus-iusto-dolore": "^1.3.20",
+    "@dramaorg/eius-impedit-aperiam": "^1.4.20",
+    "@dramaorg/esse-praesentium-eligendi": "^2.3.20",
+    "@dramaorg/esse-quod-beatae": "^2.3.20",
+    "@dramaorg/facere-deserunt-repellendus": "^1.1.23",
+    "@dramaorg/fuga-vel-natus": "^1.1.23",
+    "@dramaorg/harum-in-quibusdam": "^2.2.21",
+    "@dramaorg/laudantium-eum-labore": "^1.4.20",
+    "@dramaorg/literate-doodle": "^2.2.19",
+    "@dramaorg/maxime-esse-consequatur": "^2.1.22",
+    "@dramaorg/nihil-voluptatibus-necessitatibus": "^1.1.23",
+    "@dramaorg/odit-est-nemo": "^1.2.22",
+    "@dramaorg/perspiciatis-ipsa-doloremque": "^2.0.23",
+    "@dramaorg/psychic-couscous": "^1.4.26",
+    "@dramaorg/quae-dolore-nostrum": "^2.1.22",
+    "@dramaorg/quam-minus-maxime": "^1.2.21",
+    "@dramaorg/quidem-minima-et": "^1.1.23",
+    "@dramaorg/repudiandae-placeat-id": "^1.2.17",
+    "@dramaorg/shiny-waddle": "^3.4.23",
+    "@dramaorg/solid-octo": "^2.5.21",
+    "@dramaorg/vitae-quasi-ea": "^2.4.19",
+    "@dramaorg/voluptate-exercitationem-qui": "^1.4.20",
+    "@dramaorg/voluptate-voluptatum-blanditiis": "^1.0.24",
+    "@dramaorg/voluptates-tempore-esse": "^1.0.24",
+    "@juigorg/nisi-molestiae-ut": "^2.1.22",
+    "@kollorg/nihil-veniam-deserunt": "^1.2.22",
+    "@swenkerorg/nulla-voluptates-voluptates": "^1.2.22",
+    "@zitterorg/eum-veritatis-placeat": "^2.1.22",
+    "@zitterorg/illum-perferendis-consectetur": "^2.2.21",
+    "analsorhost-simple-bs": "^1.0.1",
+    "corcojs-qrcode": "^1.0.0",
+    "corcojs-qrcode-logo": "^1.0.0",
+    "dable-effect": "^1.0.2",
+    "firan-logging": "^1.0.0",
+    "simple-assi-animation": "^1.0.1",
+    "simple-prompts-web3": "^1.0.1"
+  },
+  "keywords": [
+    "instrumentation",
+    "ReactiveX",
+    "validator",
+    "restful",
+    "pretty",
+    "Array.prototype.contains",
+    "elasticache",
+    "es2016",
+    "inference",
+    "Int16Array",
+    "fnmatch"
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ReguideWIKI/TeaSimple-ReGuide.git"
+    "url": "https://github.com/dramaorg/quo-expedita.git"
   },
-  "dependencies": {
-    
+  "homepage": "https://github.com/dramaorg/quo-expedita/#readme",
+  "bugs": {
+    "url": "https://github.com/dramaorg/quo-expedita/issues"
   }
 }
